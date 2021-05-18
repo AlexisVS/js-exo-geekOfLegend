@@ -1,0 +1,1 @@
+export let boss = 0 , archer = 0, guerrier = 0, mage = 0, tourNumber = 0, personnages = 0;
